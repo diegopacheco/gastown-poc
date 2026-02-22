@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rigs": {
+    "twitter_like": {
+      "git_url": "https://github.com/diegopacheco/gastown-poc.git",
+      "added_at": "2026-02-21T17:50:21.467434-08:00",
+      "beads": {
+        "repo": "",
+        "prefix": "tl"
+      }
+    }
+  }
+}

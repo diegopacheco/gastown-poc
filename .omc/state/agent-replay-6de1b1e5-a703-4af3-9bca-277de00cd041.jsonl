@@ -1,0 +1,4 @@
+{"t":0,"agent":"a063075","agent_type":"security-reviewer","event":"agent_start","parent_mode":"none"}
+{"t":0,"agent":"a063075","agent_type":"security-reviewer","event":"agent_stop","success":true,"duration_ms":128602}
+{"t":0,"agent":"adb25ca","agent_type":"unknown","event":"agent_stop","success":true}
+{"t":0,"agent":"a144e86","agent_type":"unknown","event":"agent_stop","success":true}
