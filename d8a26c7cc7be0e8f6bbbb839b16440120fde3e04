@@ -1,0 +1,52 @@
+last-touched
+  316974321c58e744 1
+mayor/.omc/state/hud-state.json
+  316974321c58e744 2,4-5
+deacon/state.json
+  316974321c58e744 1
+deacon/heartbeat.json
+  316974321c58e744 2-4
+.omc/state/hud-state.json
+  316974321c58e744 2,4-5
+config.yaml
+  316974321c58e744 1-67
+.events.jsonl
+  316974321c58e744 54-72
+daemon/state.json
+  316974321c58e744 5-6
+.beads/.gt-types-configured
+  316974321c58e744 1
+deacon/dogs/boot/.boot-status.json
+  316974321c58e744 3-4
+metadata.json
+  316974321c58e744 1-4
+daemon/restart_state.json
+  316974321c58e744 4
+daemon/activity.json
+  316974321c58e744 1
+deacon/health-check-state.json
+  316974321c58e744 5,8-9,13,16-17,20
+twitter_like/.beads/last-touched
+  316974321c58e744 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "d8a26c7cc7be0e8f6bbbb839b16440120fde3e04",
+  "prompts": {
+    "316974321c58e744": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019c8346-f0be-7d01-b71c-49edea0ca330",
+        "model": "gpt-5.3-codex"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>",
+      "messages": [],
+      "total_additions": 117,
+      "total_deletions": 25,
+      "accepted_lines": 117,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/e03b65385ea08732385f6194ab007d01f8a84a68fc2c2893ad025b380e8a4ea7"
+    }
+  }
+}
