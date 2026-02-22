@@ -1,0 +1,26 @@
+.beads/config.yaml
+  b31277def0833c31 70-71
+fix-convoy.sh
+  b31277def0833c31 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "a8d3fa26ebe4c1d16833a60437dd515522245327",
+  "prompts": {
+    "b31277def0833c31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "898a6299-a0a4-414c-8add-984e06754c38",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "diegopacheco <diego.pacheco.it@gmail.com>",
+      "messages": [],
+      "total_additions": 40,
+      "total_deletions": 14,
+      "accepted_lines": 26,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/98b2a779430f969bdfc62742d989b7a69f5284916c21beb0e9c6f1566946f721"
+    }
+  }
+}
