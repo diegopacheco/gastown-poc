@@ -1,0 +1,11 @@
+{
+  "running": true,
+  "pid": 81142,
+  "port": 3307,
+  "started_at": "2026-02-22T00:16:29.961646-08:00",
+  "data_dir": "/Users/diegopacheco/gt/.dolt-data",
+  "databases": [
+    "beads",
+    "twitter_like"
+  ]
+}
