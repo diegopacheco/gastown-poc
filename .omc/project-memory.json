@@ -1,0 +1,142 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1771725148509,
+  "projectRoot": "/Users/diegopacheco/gt",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "deacon": {
+      "path": "deacon",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1771725148409,
+      "keyFiles": []
+    },
+    "mayor": {
+      "path": "mayor",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1771725148409,
+      "keyFiles": [
+        "daemon.json",
+        "overseer.json",
+        "rigs.json",
+        "town.json"
+      ]
+    },
+    "plugins": {
+      "path": "plugins",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1771725148409,
+      "keyFiles": [
+        "README.md"
+      ]
+    },
+    "settings": {
+      "path": "settings",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1771725148409,
+      "keyFiles": [
+        "escalation.json"
+      ]
+    },
+    "twitter_like": {
+      "path": "twitter_like",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1771725148409,
+      "keyFiles": [
+        "config.json"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "",
+      "accessCount": 13,
+      "lastAccessed": 1771725314576,
+      "type": "directory"
+    },
+    {
+      "path": "settings/escalation.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725321935,
+      "type": "file"
+    },
+    {
+      "path": "twitter_like/config.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725325637,
+      "type": "file"
+    },
+    {
+      "path": "mayor/town.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725331856,
+      "type": "file"
+    },
+    {
+      "path": "mayor/daemon.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725334292,
+      "type": "file"
+    },
+    {
+      "path": "mayor/overseer.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725337630,
+      "type": "file"
+    },
+    {
+      "path": ".claude/commands/handoff.md",
+      "accessCount": 1,
+      "lastAccessed": 1771725340447,
+      "type": "file"
+    },
+    {
+      "path": ".beads/config.yaml",
+      "accessCount": 1,
+      "lastAccessed": 1771725342885,
+      "type": "file"
+    },
+    {
+      "path": "mayor/.claude/settings.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725352040,
+      "type": "file"
+    },
+    {
+      "path": "mayor/rigs.json",
+      "accessCount": 1,
+      "lastAccessed": 1771725356202,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
