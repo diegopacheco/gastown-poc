@@ -1,0 +1,21 @@
+{
+  "agents": {
+    "mayor": {
+      "agent_id": "mayor",
+      "last_ping_time": "2026-02-22T02:16:07.396479Z",
+      "last_response_time": "0001-01-01T00:00:00Z",
+      "consecutive_failures": 1,
+      "last_force_kill_time": "0001-01-01T00:00:00Z",
+      "force_kill_count": 0
+    },
+    "twitter_like/witness": {
+      "agent_id": "twitter_like/witness",
+      "last_ping_time": "2026-02-22T02:15:30.304216Z",
+      "last_response_time": "0001-01-01T00:00:00Z",
+      "consecutive_failures": 1,
+      "last_force_kill_time": "0001-01-01T00:00:00Z",
+      "force_kill_count": 0
+    }
+  },
+  "last_updated": "2026-02-22T02:21:11.042663Z"
+}

@@ -84,6 +84,12 @@
       "type": "directory"
     },
     {
+      "path": ".beads/config.yaml",
+      "accessCount": 5,
+      "lastAccessed": 1771726895697,
+      "type": "file"
+    },
+    {
       "path": "settings/escalation.json",
       "accessCount": 1,
       "lastAccessed": 1771725321935,
@@ -120,12 +126,6 @@
       "type": "file"
     },
     {
-      "path": ".beads/config.yaml",
-      "accessCount": 1,
-      "lastAccessed": 1771725342885,
-      "type": "file"
-    },
-    {
       "path": "mayor/.claude/settings.json",
       "accessCount": 1,
       "lastAccessed": 1771725352040,
@@ -135,6 +135,12 @@
       "path": "mayor/rigs.json",
       "accessCount": 1,
       "lastAccessed": 1771725356202,
+      "type": "file"
+    },
+    {
+      "path": "fix-convoy.sh",
+      "accessCount": 1,
+      "lastAccessed": 1771726903911,
       "type": "file"
     }
   ],

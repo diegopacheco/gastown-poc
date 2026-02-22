@@ -67,3 +67,5 @@ no-db: true  # JSONL-only mode, no SQLite database
 # - github.repo
 
 routing.mode: "explicit"
+
+types.custom: "convoy,agent,rig,polecat,patrol,wisp,formula,molecule,gate,hook,event"
