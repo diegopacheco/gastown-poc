@@ -2,20 +2,20 @@
   "agents": {
     "mayor": {
       "agent_id": "mayor",
-      "last_ping_time": "2026-02-22T02:33:04.2233Z",
+      "last_ping_time": "2026-02-22T02:49:38.722878Z",
       "last_response_time": "0001-01-01T00:00:00Z",
       "consecutive_failures": 0,
-      "last_force_kill_time": "2026-02-22T02:33:48.890612Z",
-      "force_kill_count": 2
+      "last_force_kill_time": "2026-02-22T02:50:23.476662Z",
+      "force_kill_count": 3
     },
     "twitter_like/witness": {
       "agent_id": "twitter_like/witness",
-      "last_ping_time": "2026-02-22T02:33:53.617138Z",
+      "last_ping_time": "2026-02-22T02:50:23.755221Z",
       "last_response_time": "0001-01-01T00:00:00Z",
       "consecutive_failures": 0,
-      "last_force_kill_time": "2026-02-22T02:34:34.310323Z",
-      "force_kill_count": 2
+      "last_force_kill_time": "2026-02-22T02:51:05.514269Z",
+      "force_kill_count": 3
     }
   },
-  "last_updated": "2026-02-22T02:34:34.310345Z"
+  "last_updated": "2026-02-22T02:51:05.514297Z"
 }
