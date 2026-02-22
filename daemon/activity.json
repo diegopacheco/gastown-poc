@@ -1,1 +1,1 @@
-{"last_command":"bd --allow-stale list --json --status=pinned --limit=0","actor":"deacon","timestamp":"2026-02-22T02:59:05Z"}
+{"last_command":"bd list --label gt:message --json --limit 0","actor":"deacon-boot","timestamp":"2026-02-22T03:02:24Z"}
