@@ -1,1 +1,1 @@
-{"last_command":"bd list --status=hooked --json --limit=0","actor":"deacon","timestamp":"2026-02-22T02:38:18Z"}
+{"last_command":"bd --allow-stale show hq-mayor --json","actor":"mayor","timestamp":"2026-02-22T02:45:30Z"}
