@@ -1,7 +1,5 @@
 {
-  "backend": "dolt",
-  "database": "dolt",
-  "dolt_database": "twitter_like",
-  "dolt_mode": "server",
+  "backend": "sqlite",
+  "database": "sqlite",
   "jsonl_export": "issues.jsonl"
 }

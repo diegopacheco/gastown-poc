@@ -1,0 +1,9 @@
+{
+  "patrol_count": 2,
+  "extraordinary_action": false,
+  "last_patrol": "2026-02-21T18:30:00Z",
+  "rig_status": "idle",
+  "polecats": [],
+  "pending_tasks": ["tl-1", "tl-2"],
+  "last_action": "nuked done/stopped polecat obsidian"
+}

@@ -90,6 +90,18 @@
       "type": "file"
     },
     {
+      "path": "deacon/state.json",
+      "accessCount": 3,
+      "lastAccessed": 1771727692581,
+      "type": "file"
+    },
+    {
+      "path": "twitter_like/.beads/metadata.json",
+      "accessCount": 2,
+      "lastAccessed": 1771727575673,
+      "type": "file"
+    },
+    {
       "path": "settings/escalation.json",
       "accessCount": 1,
       "lastAccessed": 1771725321935,
